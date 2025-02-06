@@ -97,3 +97,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git remote set-url origin https://github.com/Kojo-Jr/student-database.git
 git branch -M main
 git push -u origin main
+./insert_data.sh
