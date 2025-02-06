@@ -99,3 +99,4 @@ git branch -M main
 git push -u origin main
 ./insert_data.sh
 cp students.csv students_test.csv
+./insert_data.sh
