@@ -106,3 +106,5 @@ cp students.csv students_test.csv
 clear
 ./insert_data.sh
 ls --color=auto
+__vsc_prompt_cmd_original
+rm students_test.csv
